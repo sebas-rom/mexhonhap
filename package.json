@@ -2,9 +2,9 @@
   "name": "@ui/source",
   "version": "0.0.0",
   "license": "MIT",
-  "homepage": "http://sebasrom2001.github.io/audiosebasdev/",
+  "homepage": "http://sebasrom2001.github.io/mexhonhap/",
   "scripts": {
-    "predeploy-web": "NX_BASE_HREF=/audiosebasdev/ nx build web --buildLibsFromSource --prod --baseHref=/audiosebasdev/",
+    "predeploy-web": "NX_BASE_HREF=/mexhonhap/ nx build web --buildLibsFromSource --prod --baseHref=/mexhonhap/",
     "deploy-web": "npm run predeploy-web && gh-pages -d dist/apps/web"
   },
   "private": true,
