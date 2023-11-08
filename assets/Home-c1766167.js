@@ -1,0 +1,1 @@
+import{j as e,S as s}from"./index-2a00bc21.js";const t="/mexhonhap/assets/menuImg-8cf50e64.png";function o(){return e.jsx(s,{style:{width:"100%",backgroundColor:"red"},children:e.jsx("img",{src:t})})}export{o as default};

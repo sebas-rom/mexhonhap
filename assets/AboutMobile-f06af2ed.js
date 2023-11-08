@@ -1,1 +1,0 @@
-import{j as t,aB as o,b2 as r}from"./index-1a049256.js";import{P as s}from"./profile-photo-9df1d3cc.js";function i(){return t.jsx(o,{style:{height:"inherit"},children:t.jsx(r,{src:s,alt:"ProfilePhoto",hash:"U9GHxU?bI:-:_~9F_2$zMdM{$f={=|?b9Gad",style:{width:"100%",transform:"translate(0%, -20%)"}})})}export{i as default};
