@@ -1,0 +1,1 @@
+import{j as s,S as t}from"./index-0707aecf.js";const e="/mexhonhap/assets/mexhonhap-1b3c9515.svg";function n(){return s.jsx(t,{style:{width:"100%"},children:s.jsx("img",{src:e})})}export{n as default};
