@@ -1,0 +1,6 @@
+Configure browserRouter to work with github pages
+https://github.com/rafgraph/spa-github-pages
+
+Generate sitemap links for the page
+https://spa-github-pages.rafgraph.dev/sitemap-link-generator
+

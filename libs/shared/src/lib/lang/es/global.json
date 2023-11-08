@@ -1,0 +1,15 @@
+{
+  "signup": "Registrarse",
+  "signin": "Iniciar sesión",
+  "hi": "Hola",
+  "start": "¡Comencemos!",
+  "pickmethod": "Selecciona un método de registro",
+  "alreadyAccount": "¿Ya tienes una cuenta?",
+  "personalEmail": "Email personal",
+  "canAlsoUse": "También puedes utilizar",
+  "welcome": "Bienvenido",
+  "dontHaveAccount": "¿Aún no has registrado una cuenta?",
+  "password": "Contraseña",
+  "email": "Email",
+  "accept": "Aceptar"
+}

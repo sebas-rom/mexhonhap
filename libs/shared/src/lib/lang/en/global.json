@@ -1,0 +1,15 @@
+{
+  "signup": "Sign Up",
+  "signin": "Sign In",
+  "hi": "Hi.",
+  "start": "Let's start!",
+  "pickmethod": "Pick a method to sign in",
+  "alreadyAccount": "Already have an account?",
+  "personalEmail": "Personal Email",
+  "canAlsoUse": "You can also use",
+  "welcome": "Welcome",
+  "dontHaveAccount": "Don't have an account yet?",
+  "password": "Password",
+  "email": "Email",
+  "accept": "Accept"
+}
